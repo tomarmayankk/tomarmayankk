@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Mayank! 👋
 
-<!--
-**tomarmayankk/tomarmayankk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 20-year-old Indian developer passionate about coding and building awesome software solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Toolbox 📦
+- **Frontend Development:** ReactJS, JavaScript, Tailwind CSS, Framer Motion
+- **Version Control:** Git, GitHub
+- **Others:** Notion, Pieces for developers
+---
+
+## Contact 📞
+
+DM me here [LinkedIn](https://www.linkedin.com/in/mayank-tomar-426927249/)
+
