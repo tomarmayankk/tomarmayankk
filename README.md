@@ -5,9 +5,9 @@ I am a 20-year-old Indian developer passionate about coding and building awesome
 
 
 ## Toolbox 📦
-- **Frontend Development:** ReactJS, JavaScript, Tailwind CSS, Framer Motion
-- **Version Control:** Git, GitHub
-- **Others:** Notion, Pieces for developers
+- **Frontend Development:** `ReactJS` `JavaScript` `Tailwind CSS` `Framer Motion` 
+- **Version Control:** `Git` `GitHub`
+- **Others:** `Notion` `Pieces for developers`
 ---
 
 ## Contact 📞
