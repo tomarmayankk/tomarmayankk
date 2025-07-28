@@ -13,5 +13,5 @@ I am a 21-year-old Indian developer passionate about coding and building awesome
 
 ## Contact 📞
 
-DM me here [LinkedIn](https://https://www.linkedin.com/in/tomarmayankk/)
+DM me here [LinkedIn](https://www.linkedin.com/in/tomarmayankk/)
 
